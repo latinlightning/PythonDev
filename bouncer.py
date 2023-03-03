@@ -12,3 +12,4 @@ if age:
         print("Too young Go away!")
 else: 
     print("Enter an Age")
+print("Hello!")
